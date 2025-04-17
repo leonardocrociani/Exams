@@ -613,6 +613,17 @@ Other questions
 ## MACHINE LEARNING
 
 <details>
+  <summary>:us: 2024–25</summary>
+
+  - Overview of all regularization techniques used in neural networks  
+  - Impact of the sigmoid activation function's slope parameter on model complexity  
+  - Formula for computing the output of each node in graph neural networks  
+  - Universal Approximation Theorem for neural networks (with formula)  
+
+</details>
+
+
+<details>
   <summary>:us: 2022-23</summary>
 
   - What is the linear basis expansion (phi) and where it appears
